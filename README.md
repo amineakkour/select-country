@@ -11,7 +11,7 @@ The objective of this application is to allow users to select countries by click
 The application consists of the following files and folders:
 - `src`
   - `App.jsx`: Contains all the logic for the application.
-  - `data`: Folder containing country data.
+  - `data`: Folder containing countries data.
 
 ## Functionalities
 - When a user clicks on a div element representing a country, the input field will be filled with the name of that country.
@@ -25,10 +25,6 @@ To run the application locally, follow these steps:
 4. Start the development server by running `npm run dev`.
 5. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
-## Usage
-Once the application is running, you can interact with it as follows:
-- Click on a div element representing a country to fill the input field with the name of that country.
-
 ## Further Improvements
 Some potential improvements for this application include:
 - Adding additional features such as searching or filtering countries.
@@ -36,7 +32,5 @@ Some potential improvements for this application include:
 - Enhancing the performance and efficiency of the codebase.
 
 ## Author
-[Your Name]
+AKKOUR MOHAMED AMINE
 
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
